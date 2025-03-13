@@ -38,4 +38,6 @@
 
 #include "sections/measurements.typ"
 
+#include "sections/errors.typ"
+
 #include "sections/conclusions.typ"
