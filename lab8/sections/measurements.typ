@@ -8,7 +8,7 @@
   rows: (27pt),
   [$№$], [$m, г$], [$S_0$, мм], [$v, м/с$], [$overline(v),  м/с$], [$abs(Delta v),м/с$], [$abs(overline(Delta v)),м/с$], [$overline(v)\u{00B1}overline(Delta v)$], [$delta_v$],
  
-  [1], table.cell(rowspan: 6, []), [], [], table.cell(rowspan: 6, []), [], table.cell(rowspan: 6, []), table.cell(rowspan: 6, []), [], 
+  [1], table.cell(rowspan: 5, []), [], [], table.cell(rowspan: 5, []), [], table.cell(rowspan: 5, []), table.cell(rowspan: 5, []), [], 
 
   [2], [], [], [], [], 
 
@@ -18,9 +18,9 @@
 
   [5], [], [], [], [], 
 
-  [6], [], [], [], [], 
+  [6], table.cell(rowspan: 5, []), [], [], table.cell(rowspan: 5, []), [], table.cell(rowspan: 5, []), table.cell(rowspan: 5, []), [], 
 
-  [7], table.cell(rowspan: 6, []), [], [], table.cell(rowspan: 6, []), [], table.cell(rowspan: 6, []), table.cell(rowspan: 6, []), [], 
+  [7], [], [], [], [], 
 
   [8], [], [], [], [], 
 
@@ -28,20 +28,14 @@
 
   [10], [], [], [], [], 
 
-  [11], [], [], [], [], 
+  [11], table.cell(rowspan: 5, []), [], [], table.cell(rowspan: 5, []), [], table.cell(rowspan: 5, []), table.cell(rowspan: 5, []), [],
 
   [12], [], [], [], [], 
 
-  [13], table.cell(rowspan: 6, []), [], [], table.cell(rowspan: 6, []), [], table.cell(rowspan: 6, []), table.cell(rowspan: 6, []), [],
+  [13], [], [], [], [], 
 
   [14], [], [], [], [], 
 
   [15], [], [], [], [],  
-
-  [16], [], [], [], [],  
-
-  [17], [], [], [], [], 
-
-  [18], [], [], [], [],   
 )
 
