@@ -1,4 +1,4 @@
-= Таблица:
+= Таблица
 
 #set table.hline(stroke: .6pt)
 #set align(center + horizon)
