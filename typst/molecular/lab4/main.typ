@@ -40,5 +40,7 @@
 
 #include "sections/measurements2.typ"
 
+#include "sections/measurements3.typ"
+
 #include "sections/conclusions.typ"
 
