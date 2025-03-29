@@ -34,7 +34,11 @@
 
 #include "sections/section3.typ"
 
+= Результаты измерений
+
 #include "sections/measurements.typ"
+
+#include "sections/measurements2.typ"
 
 #include "sections/conclusions.typ"
 
