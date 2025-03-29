@@ -36,7 +36,5 @@
 
 #include "sections/measurements.typ"
 
-#include "sections/measurements2.typ"
-
 #include "sections/conclusions.typ"
 
