@@ -25,3 +25,17 @@
 *Вычисления для $i = -6$*\
 $P_(c p)(i) = frac(P_1(i) + P_2(i), 2) = frac(0.0083 + 0.0082, 2) = 0.0082$\
 $rho_(c p)(i, sigma) = frac(rho_1(i, sigma) + rho_2(i, sigma), 2) = frac(0.0097 + 0.0103, 2) = 0.01$
+
+#pagebreak()
+== Графики:
+
+#figure(
+  image("../images/plot1.png", width: 80%),
+  caption: [Зависимость $P_(с р)$ от $i$]
+)<img3>
+
+#figure(
+  image("../images/plot2.png", width: 80%),
+  caption: [Зависимость $rho_(с р) (i, sigma)$ от $i$]
+)<img4>
+
