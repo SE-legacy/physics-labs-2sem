@@ -99,8 +99,9 @@
   [880], [370], [32.06],
   [890], [369], [32.124],
   [900], [368], [32.189],
-  table.cell(colspan: 2, [Работа силы трения $ Delta E_n$, Дж]), table.cell(colspan: 2,[]), 
-  table.cell(colspan: 2, [Расчетное значение удельной теплоемкости $C_(A L)$]), table.cell(colspan: 2, []), 
+  table.cell(colspan: 2, [Работа силы трения $ Delta E_n$, Дж]), table.cell(colspan: 2,[245.04246]), 
+  table.cell(colspan: 2, [Расчетное значение удельной теплоемкости $C_(A L)$]), table.cell(colspan: 2, [98.42046]), 
   table.cell(colspan: 2, [Табличное значение удельной теплоемкости $C_(A L)$]), table.cell(colspan: 2, []), 
   table.cell(colspan: 2, [Расхождение значенией удельной теплоемкости $Delta Sigma, %$]), table.cell(colspan: 2, []) 
 ) 
+== Вычисления 
