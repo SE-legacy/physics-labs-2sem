@@ -1,5 +1,4 @@
-
-
+#pagebreak()
 == Таблица 1
 #linebreak()
 #set table.hline(stroke: .6pt)
@@ -103,5 +102,5 @@
   table.cell(colspan: 2, [Работа силы трения $ Delta E_n$, Дж]), table.cell(colspan: 2,[]), 
   table.cell(colspan: 2, [Расчетное значение удельной теплоемкости $C_(A L)$]), table.cell(colspan: 2, []), 
   table.cell(colspan: 2, [Табличное значение удельной теплоемкости $C_(A L)$]), table.cell(colspan: 2, []), 
-  table.cell(colspan: 2, [$Delta Sigma, %$]), table.cell(colspan: 2, []) 
+  table.cell(colspan: 2, [Расхождение значенией удельной теплоемкости $Delta Sigma, %$]), table.cell(colspan: 2, []) 
 ) 
