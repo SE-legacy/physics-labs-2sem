@@ -124,6 +124,10 @@ $C_(A l) = frac(M_(г р) dot pi dot d dot n, m_(ц т) dot (T_(n) - T_(0))) = f
 *Расхождение значенией удельной теплоемкости:*\
 $Delta Sigma = (frac(|C_(A l_(с р)) - C_(A l_(т а б л))|, C_(A l_(т а б л)))) dot 100 % = (frac(|953.70832 - 929.46|, 929.46)) dot 100 % = frac(24.24832, 929.46) dot 100 % \u{2248} 2.6 %$
 
+*Вычисление ошибки метода:*\
+$d ln C_(A I) = (d M_"ip") / M_"ip" + (d pi) / pi + (d d) / d + (d n) / n - (d m_"ur") / m_"ur" - (d T_n - d T_0) / (T_n - T_0) = $ 
+
+
 == График
  #figure(
   image("../images/plot1.png", width: 75%),
