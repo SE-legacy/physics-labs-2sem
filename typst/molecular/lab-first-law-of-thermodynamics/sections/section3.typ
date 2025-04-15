@@ -49,4 +49,4 @@ $Delta Sigma = (frac(|C_(A l_(с р)) - C_(A l_(т а б л))|, C_(A l_(т а б
 - $C_(A l_(т а б л))$ - табличное значение удельной теплоемкости алюминия   
 
 
-$d ln C_(A I) = (d M_"ip") / M_"ip" + (d pi) / pi + (d d) / d + (d n) / n - (d m_"ur") / m_"ur" - (d T_n - d T_0) / (T_n - T_0)$ 
+$(d C_(A I)) / C_(A I)= (d M_"гр") / M_"гр" + (d pi) / pi + (d d) / d + (d n) / n - (d m_"цт") / m_"цт" - (d T_n - d T_0) / (T_n - T_0)$ 
